@@ -57,7 +57,8 @@ Aplikasi Pokédex modern dengan UI responsif, animasi halus, loader interaktif, 
 •	Modal fullscreen di mobile, compact di desktop.
 
 
-🖼️ Preview UI
+🖼️ Demo & Preview UI
+https://pokedex-react-opal-two.vercel.app/
 
 <img width="1090" height="852" alt="image" src="https://github.com/user-attachments/assets/85984795-3ed3-4a40-b6ce-8ba3d7603efa" />
 
